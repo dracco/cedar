@@ -21,3 +21,7 @@ Documentation lives here: [https://github.com/pivotal/cedar/wiki](https://github
 * [Adam Milligan](mailto:adam.milligan@alum.dartmouth.org) ([amilligan](http://github.com/amilligan)), Author
 
 Copyright (c) 2010-2013 Pivotal Labs. This software is licensed under the MIT License.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dracco/cedar/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
